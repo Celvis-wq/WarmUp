@@ -1,7 +1,7 @@
 # WarmUp.py
 # Warm up for my class
 
-colors = ["Red", "Green", "Blue", "Yellow"]
+colors = ["red", "green", "blue", "yellow"]
 
 # Loop
 for color in colors:
