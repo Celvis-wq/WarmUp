@@ -4,5 +4,5 @@
 colors = ["red", "green", "blue", "yellow"]
 
 # Loop
-for color in colors:
-    print(color)
+for i in colors:
+    print(i)
