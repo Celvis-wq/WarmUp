@@ -3,7 +3,7 @@
 
 ## Purpose:
 
-- This has a list of variables that contains color words and uses a for loop to print them out
+- This has a list of variables that contains color words and uses a for loop to print them out. This is for my cyber class.
 <br />
 
 ## FAQ:
